@@ -1,16 +1,24 @@
-## Hi there 👋
+## Mariana
 
-<!--
-**oompaloompa77/oompaloompa77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mariana 
 
-Here are some ideas to get you started:
+Yeshua <3
+"Ide por todo o mundo e pregai o evengelho a toda criatura" Marcos 16:15
+"{Me segue no instagram}(tps://discord.gg/m_moraiisz)" 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estatisticas 
+
+>img
+    align="left"
+    alt="GitHub Stats"
+    heigth="200"
+    style="padding-rigth: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=oompaloompa77&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
+
+
+>img
+    align="left"
+    alt="GitHub Stats"
+    heigth="200"
+    style="padding-rigth: 10px;"
+    src=(https://github-readme-stats.vercel.app/api/top-langs/?username=oompaloompa&theme=dracula&layout=compact&custom_title=Tenologias&langs_count=9)
