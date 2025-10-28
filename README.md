@@ -3,8 +3,7 @@
 # Mariana 
 
 Yeshua <3
-"Ide por todo o mundo e pregai o evengelho a toda criatura" Marcos 16:15
-"{Me segue no instagram}(tps://discord.gg/m_moraiisz)" 
+"Ide por todo o mundo e pregai o evengelho a toda criatura" Marcos 16:15 
 
 ### Estatisticas 
 
